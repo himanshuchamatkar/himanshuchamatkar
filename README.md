@@ -1,38 +1,73 @@
-# Hi there 👋, I'm Himanshu Vikas Chamatkar!  
+# Hi, I'm Himanshu Vikas Chamatkar 👋  
 
-🔧 Aspiring AI & Image Processing Enthusiast | Python Developer | Tech Learner* 
+🚀 B.Tech CSE (3rd Year, 6th Semester)  
+🔐 Aspiring Cybersecurity Engineer | Python Developer | AI & Computer Vision Enthusiast  
 
-💻 B.Tech in Computer Science (2nd Year)
-🎓 Passionate about AI projects like soil pH analysis and bone fracture detection from X-rays.  
-💡 Constantly exploring new technologies and working on impactful projects.  
-
----
-
-## 🔍 Current Interests:* 
-- 📊 AI and Image Processing  
-- 🌱 Web Development  
-- 🤖 Medical Image Analysis  
-- 💼 Open for Internships  
+I build practical, problem-solving projects in Python with a focus on security, data processing, and intelligent systems.  
+Currently strengthening my foundation in cybersecurity, networking, and system-level concepts.
 
 ---
 
-## 🛠️ Tech Stack:  
-- Languages: Python, C, Basics of HTML & CSS  
-- Tools: OpenCV, NumPy, Matplotlib, Git  
-- Project Areas: Image Processing, Drone Image Analysis  
+## 🎯 Current Focus
+- 🔐 Cybersecurity Fundamentals & Security Tools
+- 🐍 Python for Automation & Security
+- 🧠 Applied AI & Computer Vision
+- 🖥️ Linux & System Internals
 
 ---
 
-## 🌟 Highlighted Projects:
-- 🌱 **Soil pH Detection Using Image Processing:** Supervised and unsupervised techniques using PCA and RGB classification.  
-- 💡 **Bone Fracture Detection from X-rays:** AI-powered project for medical image analysis.  
-- 😊 **Facial Expression Detection:** Developed a system to classify emotions like happiness, sadness, and surprise using facial image data and AI techniques.
+## 🛠️ Technical Skills
+
+### Languages
+- Python
+- C / C++
+- SQL
+- Basic HTML/CSS
+
+### Libraries & Frameworks
+- OpenCV
+- TensorFlow / Keras
+- PyTorch (Basics)
+- NumPy / Pandas / Matplotlib
+- Streamlit
+
+### Tools & Platforms
+- Git & GitHub
+- Linux
+- MySQL
+- AWS (Basics)
+- Google Colab
 
 ---
 
-💬 **Let's Connect: 
-- 📫 [LinkedIn](https://www.linkedin.com/in/himanshu-chamatkar-214182296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 📧 123himanshuchamatkar@example.com  
+## 🚀 Key Projects
+
+### 🔹 3D Volume Reconstruction from CT Slices
+Reconstructed 3D volumetric knee models from 2D DICOM CT data with real-time opacity control using VTK.
+
+### 🔹 Bone Fracture Detection from X-rays
+Developed a CNN-based classification model for fracture detection using preprocessing, augmentation, and model optimization techniques.
+
+### 🔹 Soil Moisture Estimation using Drone RGB Images
+Implemented segmentation and classification techniques to estimate soil moisture using computer vision and ML models.
+
+### 🔹 Facial Expression Recognition System
+Built a real-time CNN-based facial emotion recognition system using OpenCV and TensorFlow.
 
 ---
-💻 “Keep learning, keep building!”
+
+## 📚 Currently Learning
+- Network Security & Vulnerability Analysis
+- Ethical Hacking Basics
+- Secure Coding Practices
+- Security Automation using Python
+
+---
+
+## 📬 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/himanshu-chamatkar-214182296
+- Email: 123himanshuchamatkar@gmail.com
+
+---
+
+⚡ Consistency > Motivation. Building skills daily.
